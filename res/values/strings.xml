@@ -1,0 +1,15 @@
+﻿<resources>
+
+    <string name="app_name">VistorProject</string>
+    <string name="main_title">人流量管理系统 </string>
+    <string name="main_count">当前人流量:</string>
+    <string name="main_server_ip">请输入您所在的服务器IP地址</string>
+    <string name="main_server_port">请输入您的端口号:</string>
+    <string name="main_autho">作者:秦伟平</string>
+    <string name="main_class">班级:电信101班</string>
+    <string name="main_teacher">指导老师——蒋冠雄</string>
+    <string name="main_develop_time">开发时间；2014-6-5</string>
+    <string name="main_check_server_port">您输入的端口号为空</string>
+    <string name="main_check_server_ip">您输入的ip地址为空</string>
+
+</resources>
